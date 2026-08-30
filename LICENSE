@@ -1,21 +1,33 @@
-MIT License
+Все права защищены — All Rights Reserved
 
-Copyright (c) 2026 Magys
+Copyright (c) 2026 Magys (github.com/magyss)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+«Пропавший Свет», вселенная «Фрунезко», тексты повестей, персонажи, локации,
+механики, дизайн-документация и все прочие материалы этого репозитория
+являются объектами авторского права и принадлежат правообладателю.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Репозиторий открыт для ЧТЕНИЯ. Открытость репозитория не является разрешением
+и, в частности, не даёт права:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  — копировать, распространять, публиковать или размещать материалы
+    целиком либо частями;
+  — создавать производные произведения — игры, тексты, изображения,
+    аудио, переводы, адаптации;
+  — использовать вселенную, персонажей, названия, сюжеты и дизайнерские
+    решения в проектах, коммерческих и некоммерческих;
+  — использовать материалы для обучения моделей машинного обучения
+    и для формирования обучающих выборок.
+
+Любое использование — только с предварительного письменного разрешения
+правообладателя.
+
+Цитирование в объёме, оправданном целью цитирования, со ссылкой на источник,
+допускается в соответствии с законодательством об авторском праве.
+
+--------------------------------------------------------------------------
+
+All rights reserved. This repository is published for reading only.
+No permission is granted to copy, distribute, publish, create derivative
+works from, or otherwise use any material herein — including for machine
+learning training — without prior written permission from the copyright
+holder.
